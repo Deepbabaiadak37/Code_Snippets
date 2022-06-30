@@ -16,4 +16,5 @@ public class Main
         int n=sc.nextInt();
         System.out.print(getFibo(n));
 	}
+   
 }
